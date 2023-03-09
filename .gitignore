@@ -4,3 +4,6 @@ __pycache__/data_modelling.cpython-39.pyc
 dbt_ycombinator
 logs
 test.ipynb
+bin/
+lib/
+share/
