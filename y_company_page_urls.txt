@@ -4091,7 +4091,6 @@
 /companies/280-north
 /companies/omnisio
 /companies/a-thinking-ape
-/companies/bitsample
 /companies/joberator
 /companies/insoshi
 /companies/snaptalent
