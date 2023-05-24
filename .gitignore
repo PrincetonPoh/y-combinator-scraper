@@ -7,3 +7,5 @@ test.ipynb
 bin/
 lib/
 share/
+ycombinator.csv
+ycombinator.xlsx
